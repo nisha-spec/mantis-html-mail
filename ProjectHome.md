@@ -1,0 +1,1 @@
+With this plugin the Mantis BT is able to send mails with HTML content.
